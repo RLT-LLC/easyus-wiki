@@ -2,7 +2,7 @@
 title: Интеграции
 description: 
 published: true
-date: 2022-01-07T17:53:00.564Z
+date: 2022-01-07T17:53:52.541Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-06T18:51:43.129Z
@@ -26,3 +26,5 @@ dateCreated: 2022-01-06T18:51:43.129Z
 - "phone": "Телефон клиента"
 - "address": "(опционально) Адрес клиента"
 - "comments": "Комментарий к заказу"
+
+Отправьте запрос на https://easyus.app/api/{здесь поддомен вашей компании}/webhook
