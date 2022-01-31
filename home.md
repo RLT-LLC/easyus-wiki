@@ -2,7 +2,7 @@
 title: Домашняя страница
 description: 
 published: true
-date: 2022-01-31T16:05:25.113Z
+date: 2022-01-31T16:12:45.608Z
 tags: общая информация
 editor: markdown
 dateCreated: 2021-11-13T17:54:45.565Z
@@ -24,16 +24,5 @@ Easyus доступна для использования из любого бр
   src="https://www.youtube.com/embed/fDoIbliY130"
   frameborder="0"/>
 
-<script>
-  const video = document.querySelector('.video')
-            const windowWidth = window.innerWidth
 
-            if (windowWidth < 800) {
-                video.setAttribute('width', '50%')
-                video.setAttribute('height', '50%')
-            } else {
-                video.setAttribute('width', '100%')
-                video.setAttribute('height', '100%')
-            }
-</script>
 
