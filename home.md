@@ -2,7 +2,7 @@
 title: Домашняя страница
 description: 
 published: true
-date: 2022-01-31T15:49:23.577Z
+date: 2022-01-31T15:53:48.583Z
 tags: общая информация
 editor: markdown
 dateCreated: 2021-11-13T17:54:45.565Z
@@ -19,6 +19,14 @@ Easyus доступна для использования из любого бр
 
 > В следующих главах документации вы познакомитесь со всем функционалом Easyus CRM. Инструкции по использованию представлены в текстовом виде, а также в некоторых главах есть видео-демонстрации
 {.is-info}
-<iframe style="aspect-ratio : 16/9" id="ytplayer" type="text/html" width="50%" height="50%"
+<iframe class="video" style="aspect-ratio : 16/9" id="ytplayer" type="text/html"
   src="https://www.youtube.com/embed/fDoIbliY130"
   frameborder="0"/>
+
+<style>
+.video {
+  width: 50%;
+  height: 50%;
+  }
+  @media screen and (max-width: 800px) {.video {width: 100%; height: 100%;}}
+</style>
