@@ -2,7 +2,7 @@
 title: Добавление сотрудников
 description: 
 published: true
-date: 2023-06-08T17:14:57.671Z
+date: 2023-06-08T17:42:47.324Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T16:35:54.669Z
