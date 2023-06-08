@@ -2,7 +2,7 @@
 title: Визитка и информация об организации
 description: 
 published: true
-date: 2023-06-08T18:27:21.179Z
+date: 2023-06-08T18:29:42.111Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-21T14:40:12.272Z
